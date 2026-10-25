@@ -1,0 +1,4 @@
+# .gitignore
+node_modules
+dist
+.game-build-files.json
